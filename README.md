@@ -1,4 +1,4 @@
-**# Parking Lot Project**
+# Parking Lot Project
 ## Overview
 The Parking Lot project is a Java-based application designed to manage vehicle parking operations. The program allows users to park various types of vehicles, track available parking spaces, and handle ticketing and payments. This project can be used as a foundational system for managing small to medium-sized parking lots.
 
