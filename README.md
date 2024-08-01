@@ -22,18 +22,22 @@ To install and run the Parking Lot project on your computer, follow these steps:
 
 ### 1. Clone the Repository
 git clone https://github.com/upasek/Parking_Lot.git
+
 cd Parking_Lot
 
 ### 2. Set Up Your Environment
 Ensure you have Java installed. You can check by running:
+
 java -version
 
 ### 3. Compile the Java Files
 Navigate to the directory where the Java files are located and compile them:
+
 javac *.java
 
 ### 4. Run the Program
-Run the main class `ParkingLot`:
+Run the main class **`ParkingLot`**:
+
 java ParkingLot
 
 
